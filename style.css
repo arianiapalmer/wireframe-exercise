@@ -1,0 +1,22 @@
+* {
+    margin: 20px;
+}
+header{
+    flex-direction: row;
+    background-color: rgb(82, 77, 77);
+}
+a {
+    width: 50px;
+    length: 50px;
+    background-color: rgb(234, 221, 221);
+    display: inline-block;
+}
+section{
+    display: inline-block;
+}
+footer {
+    background-color: black;
+}
+body :last-child {
+    display: inline-block;
+}
