@@ -26,10 +26,10 @@ h4{
     /* selecting feature heading */
 }
 p:last-child{
-    /* selecting call to action */\
+    /* selecting call to action */
 }
 p:last-child:hover{
-    
+    /* to add hover */
 }
 footer{
     background-color: rgb(87, 87, 87);
