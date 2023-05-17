@@ -4,8 +4,17 @@ nav{
     align-items: center;
     justify-content: space-evenly;
     padding: 10px 0px;
-  }
-  
-  nav div {
+}  
+nav div {
     color:white;
-  }
+}
+main{
+    /* margin: 10px 40px; */
+}
+section div{
+    display: flex;
+    justify-content: space-evenly;
+}
+footer{
+    background-color: darkgray;
+}
