@@ -1,5 +1,8 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 nav{
-    background-color: darkgray;
+    background-color: rgb(87, 87, 87);
     display:flex;
     align-items: center;
     justify-content: space-evenly;
@@ -14,7 +17,20 @@ main{
 section div{
     display: flex;
     justify-content: space-evenly;
+    padding: 10px;
+}
+article{
+    /* box with the 3 elements w/ words */
+}
+h4{
+    /* selecting feature heading */
+}
+p:last-child{
+    /* selecting call to action */\
+}
+p:last-child:hover{
+    
 }
 footer{
-    background-color: darkgray;
+    background-color: rgb(87, 87, 87);
 }
